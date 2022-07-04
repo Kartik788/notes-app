@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
                 EditText fileNameEd = dialogView.findViewById(R.id.file_name_ed);
 
 
-                cance.setOnClickListener(new View.OnClickListener() {
+                cancel.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
                         alertDialog.dismiss();
