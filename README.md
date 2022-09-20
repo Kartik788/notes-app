@@ -9,5 +9,3 @@ Google gson libruary is used to store objects as string.
 Framework used are android studio,java and xml.
 The app is very fast.
 
-![WhatsApp Image 2022-09-01 at 6 26 52 PM (1)](https://user-images.githubusercontent.com/85425684/191161776-e64fa17b-c40a-4174-a70d-2a005de07925.jpeg)
-![IMG_20220614_212106](https://user-images.githubusercontent.com/85425684/191161967-5cf0cf3d-534c-4863-bcc9-44b7d6548e21.jpg)
